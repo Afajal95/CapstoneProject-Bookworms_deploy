@@ -1,1 +1,1 @@
-web: concurrently \"npm run client\" \"npm run server\
+web:concurrently \"npm run client\" \"npm run server\
